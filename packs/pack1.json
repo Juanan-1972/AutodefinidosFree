@@ -1,0 +1,45 @@
+{
+  "puzzles": [
+    {
+      "title": "Autodefinido de prueba",
+      "author": "TuNombre",
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "definitions": [
+            { "word": "GATO", "direction": "right" }
+          ]
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "definitions": [
+            { "word": "ATOS", "direction": "down" }
+          ]
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "definitions": [
+            { "word": "PERRO", "direction": "right" }
+          ]
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "definitions": [
+            { "word": "SOL", "direction": "down" }
+          ]
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "definitions": [
+            { "word": "LUNA", "direction": "right" }
+          ]
+        }
+      ]
+    }
+  ]
+}
