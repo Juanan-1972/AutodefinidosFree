@@ -1,14 +1,14 @@
-1|Definicion|Juegos cada 4 años·--------·"Chispas"
+1|Definicion|Juegos cada 4 años··"Chispas"
 2|Valor|O|1DerechaAbajo
-3|Definicion|Oriente y ...·--------·Que tienen envidia
+3|Definicion|Oriente y ...··Que tienen envidia
 4|Valor|O|1DerechaAbajo
-5|Definicion|La creimos·--------·Barrio sevillano
+5|Definicion|La creimos··Barrio sevillano
 6|Valor|C|1DerechaAbajo
-7|Definicion|Levantéis·--------·Prefijo negación
+7|Definicion|Levantéis··Prefijo negación
 8|Valor|I|1DerechaAbajo
-9|Definicion|Médico alternativo·--------·Hinchazón
+9|Definicion|Médico alternativo··Hinchazón
 10|Valor|O|1DerechaAbajo
-11|Definicion|Cédeselo·--------·... y Jerry
+11|Definicion|Cédeselo··... y Jerry
 12|Valor|P|1DerechaAbajo
 13|Valor|E|AbajoDerecha
 14|Valor|L
@@ -22,7 +22,7 @@
 22|Valor|S
 23|Valor|T|Abajo
 24|Valor|A
-25|Definicion|Subidas·--------·2008
+25|Definicion|Subidas··2008
 26|Valor|I|1Derecha
 27|Valor|N
 28|Valor|C
@@ -40,13 +40,13 @@
 40|Valor|I
 41|Valor|I
 42|Valor|I
-43|Definicion|Parque ferial·madrileño·--------·Osmio
+43|Definicion|Parque ferial madrileño··Osmio
 44|Valor|I|1Derecha
 45|Valor|F
 46|Valor|E
 47|Valor|M
 48|Valor|A
-49|Definicion|Lo solicitemos·--------·Tómanos la medida
+49|Definicion|Lo solicitemos··Tómanos la medida
 50|Valor|P|1Derecha
 51|Valor|I
 52|Valor|D
@@ -56,7 +56,7 @@
 56|Valor|S
 57|Valor|L
 58|Valor|O
-59|Definicion|·Ineficaz
+59|Definicion|Ineficaz
 60|Valor|L
 61|Valor|M|AbajoDerecha
 62|Valor|I
@@ -65,28 +65,28 @@
 65|Valor|N
 66|Valor|O
 67|Valor|S
-68|Definicion|Vegetal agrio·--------·Bachillerato Internacional
+68|Definicion|Vegetal agrio··Bachillerato Internacional
 69|Valor|A|2Derecha
 70|Valor|P
 71|Valor|I|Abajo
 72|Valor|O
-73|Definicion|Ant. pronto·--------·Al revés·Contrario a nada
+73|Definicion|Ant. pronto··Al revés·Contrario a nada
 74|Valor|A|1Derecha
 75|Valor|I
 76|Valor|N
 77|Valor|A
 78|Valor|S
-79|Definicion|Magnetita·--------·Decorativo
+79|Definicion|Magnetita··Decorativo
 80|Valor|I|1Derecha;Abajo
 81|Valor|M
 82|Valor|A
 83|Valor|N
-84|Definicion|·Curado
+84|Definicion|Curado
 85|Valor|O|AbajoDerecha
 86|Valor|D
 87|Valor|O
 88|Valor|T
-89|Definicion|Cachorros de lobo··--------·Combate
+89|Definicion|Cachorros de lobo···Combate
 90|Valor|L|1Derecha
 91|Valor|O|Abajo
 92|Valor|B
@@ -94,14 +94,14 @@
 94|Valor|T
 95|Valor|O
 96|Valor|S|Abajo
-97|Definicion|Suavizar·--------·EEUU
+97|Definicion|Suavizar··EEUU
 98|Valor|A|1Derecha
 99|Valor|S
 100|Valor|E
 101|Valor|D|Abajo
 102|Valor|A
 103|Valor|R
-104|Definicion|Manto, toga·--------·Alteración en ojos
+104|Definicion|Manto, toga··Alteración en ojos
 105|Valor|C|1Derecha
 106|Valor|A
 107|Valor|P
@@ -109,17 +109,17 @@
 109|Valor|U|AbajoDerecha
 110|Valor|S
 111|Valor|A
-112|Definicion|Al revés·me di de bruces
+112|Definicion|Al revés me di de bruces
 113|Valor|U
-114|Definicion|·Nombre de chico
+114|Definicion|Nombre de chico
 115|Valor|N|
 116|Valor|O|Abajo
 117|Valor|I
-118|Definicion|átomo con carga·--------·Preposición·--------·Radio Televisión·Española
+118|Definicion|átomo con carga··Preposición··Radio Televisión Española
 119|Valor|E|1Derecha
 120|Valor|N
-121|Definicion|·Portugal
-122|Definicion|Al revés·tiraréis·--------·Tejo
+121|Definicion|Portugal
+122|Definicion|Al revés tiraréis··Tejo
 123|Valor|S|1Derecha
 124|Valor|I|Abajo
 125|Valor|E
@@ -132,7 +132,7 @@
 132|Valor|A
 133|Valor|P|AbajoDerecha
 134|Valor|T|Abajo
-135|Definicion|Dad de comer·--------·Libro electrónico
+135|Definicion|Dad de comer··Libro electrónico
 136|Valor|A|1Derecha
 137|Valor|L
 138|Valor|I
@@ -142,7 +142,7 @@
 142|Valor|T
 143|Valor|A
 144|Valor|D
-145|Definicion|Volver a cocer·--------·Liga Española de Baloncesto
+145|Definicion|Volver a cocer··Liga Española de Baloncesto
 146|Valor|R|1Derecha
 147|Valor|E|Abajo
 148|Valor|C
@@ -150,23 +150,23 @@
 150|Valor|C
 151|Valor|E
 152|Valor|R
-153|Definicion|Vino sin la i·--------·Hocico
+153|Definicion|Vino sin la i··Hocico
 154|Valor|V|1Derecha
 155|Valor|N
 156|Valor|O
 157|Valor|L|AbajoDerecha
 158|Valor|E
 159|Valor|B
-160|Definicion|·Mi villano favorito
-161|Definicion|·Vocales iguales
+160|Definicion|Mi villano favorito
+161|Definicion|Vocales iguales
 162|Valor|A
 163|Valor|N
 164|Valor|A
 165|Valor|J|Abajo
 166|Valor|E
 167|Valor|T|1Izquierda
-168|Definicion|Tejera·--------·Signo zodiaco
-169|Definicion|Al revés·dragoncillo, tarragón·--------·Turbada
+168|Definicion|Tejera··Signo zodiaco
+169|Definicion|Al revés dragoncillo, tarragón··Turbada
 170|Valor|N|2Derecha
 171|Valor|O
 172|Valor|G|Abajo
@@ -175,7 +175,7 @@
 175|Valor|T
 176|Valor|S
 177|Valor|E
-178|Definicion|Artículo·--------·Osmio
+178|Definicion|Artículo··Osmio
 179|Valor|E|1Derecha
 180|Valor|L|Abajo
 181|Valor|A|AbajoDerecha
@@ -185,20 +185,20 @@
 185|Valor|A
 186|Valor|D
 187|Valor|A
-188|Definicion|·Carraspéa
+188|Definicion|Carraspéa
 189|Valor|T|2Derecha
 190|Valor|O|Abajo
 191|Valor|S
 192|Valor|E
-193|Definicion|·Municipio de Camerún
+193|Definicion|Municipio de Camerún
 194|Valor|O|2Derecha
 195|Valor|K
 196|Valor|U
-197|Definicion|·Pucheros
+197|Definicion|Pucheros
 198|Valor|O|2Derecha
 199|Valor|L
 200|Valor|L
 201|Valor|A
 202|Valor|S
-203|Definicion|·Oxígeno
+203|Definicion|Oxígeno
 204|Valor|O|2Derecha

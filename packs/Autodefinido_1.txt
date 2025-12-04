@@ -4,7 +4,7 @@
 4|Valor|D|1DerechaAbajo
 5|Definicion|Series, novelas··En inglés rasgó
 6|Valor|S|1DerechaAbajo
-7|Definicion|Consonantes de rodaba··Al revés Municipio cántabro
+7|Definicion|Consonantes de rodaba·Al revés Municipio cántabro
 8|Valor|O|1DerechaAbajo
 9|Definicion|Nombre vasco de hombre··Holguras
 10|Valor|U|1DerechaAbajo
