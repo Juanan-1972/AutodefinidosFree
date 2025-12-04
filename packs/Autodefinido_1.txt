@@ -4,9 +4,9 @@
 4|Valor|D|1DerechaAbajo
 5|Definicion|Series, novelas··En inglés rasgó
 6|Valor|S|1DerechaAbajo
-7|Definicion|Consonantes de·rodaba··Al revés·Municipio cántabro
+7|Definicion|Consonantes de rodaba··Al revés Municipio cántabro
 8|Valor|O|1DerechaAbajo
-9|Definicion|Nombre vasco·de hombre··Holguras
+9|Definicion|Nombre vasco de hombre··Holguras
 10|Valor|U|1DerechaAbajo
 11|Definicion|Localidad de Asturias··Hades
 12|Valor|M|1DerechaAbajo
@@ -62,7 +62,7 @@
 62|Valor|T
 63|Valor|R
 64|Valor|A
-65|Definicion|Animal de·Madagascar··Nitrógeno
+65|Definicion|Animal de Madagascar··Nitrógeno
 66|Valor|L|2Derecha
 67|Valor|E|Abajo
 68|Valor|M
@@ -81,7 +81,7 @@
 81|Valor|R
 82|Valor|I
 83|Valor|O
-84|Definicion|·Pensaríamos·Planearíamos
+84|Definicion|Pensaríamos Planearíamos
 85|Valor|A|AbajoDerecha
 86|Valor|C
 87|Valor|I
@@ -92,9 +92,9 @@
 92|Definicion|Dos vocales··Viajero del tiempo
 93|Valor|A|1Derecha
 94|Valor|E
-95|Definicion|·Partido·Hecho astillas
+95|Definicion|Partido·Hecho astillas
 96|Valor|I|Abajo
-97|Definicion|Al revés·mucosidad··Plantígrado
+97|Definicion|Al revés mucosidad··Plantígrado
 98|Valor|O|1Derecha
 99|Valor|C
 100|Valor|O
@@ -118,8 +118,8 @@
 118|Valor|E|1Derecha
 119|Valor|S
 120|Valor|E
-121|Definicion|·Nota musical
-122|Definicion|Corriente política·Nicaragua··Al revés·difunta
+121|Definicion|Nota musical
+122|Definicion|Corriente política Nicaragua··Al revés difunta
 123|Valor|S|1Derecha
 124|Valor|A|Abajo
 125|Valor|N
@@ -166,7 +166,7 @@
 166|Valor|L
 167|Valor|L
 168|Valor|A
-169|Definicion|·Muros bajos
+169|Definicion|Muros bajos
 170|Valor|E
 171|Definicion|Enumerar··Nota musical
 172|Valor|L|1Derecha
@@ -185,17 +185,17 @@
 185|Valor|T
 186|Valor|E
 187|Valor|S
-188|Definicion|·Articulación·Esquina
+188|Definicion|Articulación Esquina
 189|Valor|C|2Derecha
 190|Valor|O|Abajo
 191|Valor|D
 192|Valor|O
-193|Definicion|·Escritorio
+193|Definicion|Escritorio
 194|Valor|M|2Derecha
 195|Valor|E
 196|Valor|S
 197|Valor|A
-198|Definicion|·Árboles tropicales
+198|Definicion|Árboles tropicales
 199|Valor|E|2Derecha
 200|Valor|B
 201|Valor|A
