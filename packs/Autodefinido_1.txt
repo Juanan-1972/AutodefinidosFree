@@ -1,4 +1,4 @@
-1|Definicion|Televisivos··--------··Mar latino·
+1|Definicion|·Televisivos··--------··Mar latino·
 2|Valor|M|1DerechaAbajo
 3|Definicion|Despistado··--------··Desolados, inhóspitos
 4|Valor|D|1DerechaAbajo
@@ -202,3 +202,4 @@
 202|Valor|N
 203|Valor|O
 204|Valor|S
+
