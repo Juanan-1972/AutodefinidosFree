@@ -1,4 +1,3 @@
-Autodefinido_1:FACIL:Free: General:Esp
-Autodefinido_2:FACIL:Free: General:Esp
-Autodefinido_3:MEDIO:Free: General:Esp
-
+Autodefinido_1:Fácil:Free:General:Esp
+Autodefinido_2:Fácil:Free:General:Esp
+Autodefinido_3:Medio:Free:General:Esp
