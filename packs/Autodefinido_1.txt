@@ -1,14 +1,14 @@
-1|Definicion|·Televisivos··--------··Mar latino·
+1|Definicion|·Televisivos·--------·Mar latino·
 2|Valor|M|1DerechaAbajo
-3|Definicion|Despistado··--------··Desolados, inhóspitos
+3|Definicion|·Despistado·--------·Desolados, inhóspitos
 4|Valor|D|1DerechaAbajo
-5|Definicion|Series, novelas··--------··En inglés rasgó
+5|Definicion|·Series, novelas·--------·En inglés rasgó
 6|Valor|S|1DerechaAbajo
-7|Definicion|Consonantes de·rodaba··--------·Al revés·Municipio cántabro
+7|Definicion|·Consonantes de·rodaba·--------·Al revés·Municipio cántabro
 8|Valor|O|1DerechaAbajo
-9|Definicion|Nombre vasco·de hombre·--------··Holguras
+9|Definicion|·Nombre vasco·de hombre·--------·Holguras
 10|Valor|U|1DerechaAbajo
-11|Definicion|Localidad de Asturias··--------··Hades
+11|Definicion|·Localidad de Asturias·--------·Hades
 12|Valor|M|1DerechaAbajo
 13|Valor|M|AbajoDerecha
 14|Valor|E
@@ -22,7 +22,7 @@
 22|Valor|N
 23|Valor|E|Abajo
 24|Valor|O
-25|Definicion|Desorganizada··--------··Reparto
+25|Definicion|·Desorganizada·--------·Reparto
 26|Valor|D|2Derecha
 27|Valor|E
 28|Valor|S
@@ -46,23 +46,23 @@
 46|Valor|I
 47|Valor|O
 48|Valor|N
-49|Definicion|Del aire··--------··Alguien distinta
+49|Definicion|·Del aire·--------·Alguien distinta
 50|Valor|A|2Derecha
 51|Valor|E
 52|Valor|R
 53|Valor|E
 54|Valor|A
-55|Definicion|Medida de acidez··--------··Errante
+55|Definicion|·Medida de acidez·--------·Errante
 56|Valor|P|2Derecha
 57|Valor|H
-58|Definicion|Neón··--------··Carriles
+58|Definicion|·Neón·--------·Carriles
 59|Valor|N|2Derecha
 60|Valor|E
 61|Valor|O|AbajoDerecha
 62|Valor|T
 63|Valor|R
 64|Valor|A
-65|Definicion|Animal de·Madagascar··--------··Nitrógeno
+65|Definicion|·Animal de·Madagascar·--------·Nitrógeno
 66|Valor|L|2Derecha
 67|Valor|E|Abajo
 68|Valor|M
@@ -70,7 +70,7 @@
 70|Valor|R|Abajo
 71|Valor|E
 72|Valor|S
-73|Definicion|Camino, recorrido··--------··Ácido en ingles
+73|Definicion|·Camino, recorrido·--------·Ácido en ingles
 74|Valor|I|2Derecha
 75|Valor|T
 76|Valor|I
@@ -86,20 +86,20 @@
 86|Valor|C
 87|Valor|I
 88|Valor|D
-89|Definicion|Señor··--------··Manolita
+89|Definicion|·Señor·--------·Manolita
 90|Valor|S|1Derecha
 91|Valor|R
-92|Definicion|Dos vocales··--------··Viajero del tiempo
+92|Definicion|·Dos vocales·--------·Viajero del tiempo
 93|Valor|A|1Derecha
 94|Valor|E
 95|Definicion|··Partido·Hecho astillas
 96|Valor|I|Abajo
-97|Definicion|Al revés·mucosidad··--------··Plantígrado
+97|Definicion|·Al revés·mucosidad·--------·Plantígrado
 98|Valor|O|1Derecha
 99|Valor|C
 100|Valor|O
 101|Valor|M
-102|Definicion|Separad··--------··Equipo del Calcio
+102|Definicion|·Separad·--------·Equipo del Calcio
 103|Valor|A|1Derecha
 104|Valor|I|Abajo
 105|Valor|S
@@ -109,17 +109,17 @@
 109|Valor|O|AbajoDerecha
 110|Valor|S
 111|Valor|O
-112|Definicion|Coche··--------··Tendón de .....
+112|Definicion|·Coche·--------·Tendón de .....
 113|Valor|A|1Derecha
 114|Valor|U|Abajo
 115|Valor|T
 116|Valor|O
-117|Definicion|Este y ....··--------··Dos vocales
+117|Definicion|·Este y ....·--------·Dos vocales
 118|Valor|E|1Derecha
 119|Valor|S
 120|Valor|E
 121|Definicion|··Nota musical
-122|Definicion|Corriente política·Nicaragua·--------·Al revés·difunta
+122|Definicion|·Corriente política·Nicaragua·--------·Al revés·difunta
 123|Valor|S|1Derecha
 124|Valor|A|Abajo
 125|Valor|N
@@ -132,17 +132,17 @@
 132|Valor|A
 133|Valor|F|AbajoDerecha
 134|Valor|A|Abajo
-135|Definicion|Me sacas de .....··--------··Dios del sol
+135|Definicion|·Me sacas de .....·--------·Dios del sol
 136|Valor|Q|1Derecha
 137|Valor|U
 138|Valor|I
 139|Valor|C
 140|Valor|I
 141|Valor|O
-142|Definicion|Trasladarse··--------··Contracción
+142|Definicion|·Trasladarse·--------·Contracción
 143|Valor|I|1Derecha
 144|Valor|R
-145|Definicion|Rayos y ....··--------··Monje
+145|Definicion|·Rayos y ....·--------·Monje
 146|Valor|T|1Derecha
 147|Valor|R|Abajo
 148|Valor|U
@@ -150,7 +150,7 @@
 150|Valor|N
 151|Valor|O
 152|Valor|S
-153|Definicion|Mohamed ....··--------··..... de Noé
+153|Definicion|·Mohamed ....·--------·..... de Noé
 154|Valor|A|1Derecha|Abajo
 155|Valor|L
 156|Valor|I
@@ -160,7 +160,7 @@
 160|Valor|I
 161|Valor|L
 162|Valor|E
-163|Definicion|Altura, medida··--------··Mosca tse-...
+163|Definicion|·Altura, medida·--------·Mosca tse-...
 164|Valor|T|1Derecha
 165|Valor|A|Abajo
 166|Valor|L
@@ -168,14 +168,14 @@
 168|Valor|A
 169|Definicion|··Muros bajos
 170|Valor|E
-171|Definicion|Enumerar··--------··Nota musical
+171|Definicion|·Enumerar·--------·Nota musical
 172|Valor|L|1Derecha
 173|Valor|I
 174|Valor|S
 175|Valor|T|Abajo
 176|Valor|A
 177|Valor|R
-178|Definicion|pm y ...··--------··Off y ...
+178|Definicion|·pm y ...·--------·Off y ...
 179|Valor|A|1Derecha
 180|Valor|M
 181|Valor|M|AbajoDerecha
@@ -185,7 +185,7 @@
 185|Valor|T
 186|Valor|E
 187|Valor|S
-188|Definicion|··Artíiculación·Esquina
+188|Definicion|··Articulación·Esquina
 189|Valor|C|2Derecha
 190|Valor|O|Abajo
 191|Valor|D
@@ -202,4 +202,3 @@
 202|Valor|N
 203|Valor|O
 204|Valor|S
-
