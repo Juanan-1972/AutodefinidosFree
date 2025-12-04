@@ -1,14 +1,14 @@
-1|Definicion|·Lidiaremos·--------·Administración·Tesorería
+1|Definicion|Lidiaremos·--------·Administración·Tesorería
 2|Valor|T
-3|Definicion|·Moral·--------·Nombre de chico
+3|Definicion|Moral·--------·Nombre de chico
 4|Valor|E
-5|Definicion|·Sobria·--------·Madre de María
+5|Definicion|Sobria·--------·Madre de María
 6|Valor|A
-7|Definicion|·Al revés·Gonzalo·--------·De Italia
+7|Definicion|Al revés·Gonzalo·--------·De Italia
 8|Valor|O
-9|Definicion|·Tiempo musical·lento·--------·De forma·irracional
+9|Definicion|Tiempo musical·lento·--------·De forma·irracional
 10|Valor|A
-11|Definicion|·Loamos·--------·Alero
+11|Definicion|Loamos·--------·Alero
 12|Valor|A
 13|Valor|C
 14|Valor|O
@@ -22,7 +22,7 @@
 22|Valor|D
 23|Valor|A
 24|Valor|D
-25|Definicion|·Vuélvelo a·instalar·--------·Dejar de·Comercializar
+25|Definicion|Vuélvelo a·instalar·--------·Dejar de·Comercializar
 26|Valor|R
 27|Valor|E
 28|Valor|I
@@ -46,14 +46,14 @@
 46|Valor|G
 47|Valor|A
 48|Valor|R
-49|Definicion|·Anuda·--------·Anillo
+49|Definicion|Anuda·--------·Anillo
 50|Valor|A
 51|Valor|T
 52|Valor|A
-53|Definicion|·Artículo·--------·Arraigar
+53|Definicion|Artículo·--------·Arraigar
 54|Valor|E
 55|Valor|L
-56|Definicion|·Voltéa, rota·--------·Novato
+56|Definicion|Voltéa, rota·--------·Novato
 57|Valor|G
 58|Valor|I
 59|Valor|R
@@ -61,30 +61,30 @@
 61|Valor|A
 62|Valor|R
 63|Valor|O
-64|Definicion|·Nombre de chico·--------·Breves, pasajeros
+64|Definicion|Nombre de chico·--------·Breves, pasajeros
 65|Valor|E
 66|Valor|M
 67|Valor|I
 68|Valor|L
 69|Valor|I
 70|Valor|O
-71|Definicion|·Mil·--------·.... más·cuanto más
+71|Definicion|Mil·--------·.... más·cuanto más
 72|Valor|M
-73|Definicion|·Divinidad griega·--------·Post meridiem
+73|Definicion|Divinidad griega·--------·Post meridiem
 74|Valor|E
 75|Valor|R
 76|Valor|E
 77|Valor|N
 78|Valor|I
 79|Valor|A
-80|Definicion|·Carbono·--------·Jose Ramón
+80|Definicion|Carbono·--------·Jose Ramón
 81|Valor|C
-82|Definicion|·Cobalto·--------·Espantoso
+82|Definicion|Cobalto·--------·Espantoso
 83|Valor|C
 84|Valor|O
 85|Valor|P
 86|Valor|M
-87|Definicion|·Franjeado·--------·Perennes
+87|Definicion|Franjeado·--------·Perennes
 88|Valor|F
 89|Valor|R
 90|Valor|A
@@ -94,18 +94,18 @@
 94|Valor|D
 95|Valor|O
 96|Valor|S
-97|Definicion|·Aborrece·--------·Aceptabas
+97|Definicion|Aborrece·--------·Aceptabas
 98|Valor|O
 99|Valor|D
 100|Valor|I
 101|Valor|A
-102|Definicion|·Montan·--------·Al revés·Volcán de·Indonesia
+102|Definicion|Montan·--------·Al revés·Volcán de·Indonesia
 103|Valor|A
 104|Valor|R
 105|Valor|M
 106|Valor|A
 107|Valor|N
-108|Definicion|··En inglés·Tierra del este
+108|Definicion|·En inglés·Tierra del este
 109|Valor|A
 110|Valor|S
 111|Valor|U
@@ -113,18 +113,18 @@
 113|Valor|I
 114|Valor|A
 115|Valor|S
-116|Definicion|·Ser·--------·Longitudes de·un barco
+116|Definicion|Ser·--------·Longitudes de·un barco
 117|Valor|E
 118|Valor|N
 119|Valor|T
 120|Valor|E
-121|Definicion|··Rebajastéis·
-122|Definicion|·Oración, plegaria·--------·No es caro
+121|Definicion|·Rebajastéis·
+122|Definicion|Oración, plegaria·--------·No es caro
 123|Valor|R
 124|Valor|E
 125|Valor|Z
 126|Valor|O
-127|Definicion|·Pasa·--------·Derribaba
+127|Definicion|Pasa·--------·Derribaba
 128|Valor|E
 129|Valor|N
 130|Valor|T
@@ -142,7 +142,7 @@
 142|Valor|E
 143|Valor|I
 144|Valor|S
-145|Definicion|·Encantadores·--------·Uno + dos
+145|Definicion|Encantadores·--------·Uno + dos
 146|Valor|A
 147|Valor|D
 148|Valor|O
@@ -152,24 +152,24 @@
 152|Valor|L
 153|Valor|E
 154|Valor|S
-155|Definicion|··Bonito
+155|Definicion|·Bonito
 156|Valor|T
 157|Valor|T
 158|Valor|R
 159|Valor|ES
 160|Valor|S
-161|Definicion|··Isla de Tonga
+161|Definicion|·Isla de Tonga
 162|Valor|K
 163|Valor|A
 164|Valor|O
-165|Definicion|·Una de .... y·otra de arena·--------·Impuesto de·sociedades
+165|Definicion|Una de .... y·otra de arena·--------·Impuesto de·sociedades
 166|Valor|C
 167|Valor|A
 168|Valor|L
-169|Definicion|·Voz de mando·--------·Acortarías
+169|Definicion|Voz de mando·--------·Acortarías
 170|Valor|A
 171|Valor|R
-172|Definicion|·Leal a la nación·--------·Risa
+172|Definicion|Leal a la nación·--------·Risa
 173|Valor|P
 174|Valor|A
 175|Valor|T
@@ -187,18 +187,18 @@
 187|Valor|I
 188|Valor|A
 189|Valor|S
-190|Definicion|··Uno
+190|Definicion|·Uno
 191|Valor|U
 192|Valor|N
-193|Definicion|··Plantígrada
+193|Definicion|·Plantígrada
 194|Valor|O
 195|Valor|S
 196|Valor|A
-197|Definicion|··Marca de refresco
+197|Definicion|·Marca de refresco
 198|Valor|K
 199|Valor|A
 200|Valor|S
-201|Definicion|··Y en inglés
+201|Definicion|·Y en inglés
 202|Valor|A
 203|Valor|N
 204|Valor|D
